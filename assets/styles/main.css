@@ -1,0 +1,25 @@
+* {
+  font-family: arial;
+}
+body {
+  width: 600px;
+  margin: 0 auto;
+  text-align: center;
+}
+body li {
+  text-align: left;
+}
+header h1 {
+  color: #7B3F00;
+  font-family: cursive;
+}
+
+.butter {
+  color: yellow;
+}
+.chips {
+  color: #7B3F00;
+}
+.eggs {
+  color: green;
+}
